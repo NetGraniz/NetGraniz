@@ -106,11 +106,11 @@ A compact team-power calculator for selecting available monsters.
 
 <td width="50%" valign="top">
 
-### 🌲 Minecraft Servers
+### 🌲 Minecraft Server
 
-A multilingual site for the Java and Bedrock server community.
+Official site for the Java server community.
 
-`Community` `Minecraft` `Java & Bedrock`
+`Community` `Minecraft` `Java`
 
 <p>
 <a href="https://nord-fjell.com">
