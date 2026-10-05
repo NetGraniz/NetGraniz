@@ -12,7 +12,7 @@
 <p align="center">
   <a href="https://portfolio.nord-fjell.com"><samp>[ VISIT PORTFOLIO ]</samp></a>
   &nbsp; · &nbsp;
-  <a href="https://t.me/NetGraniz"><samp>[ SAY HELLO / TELEGRAM ]</samp></a>
+  <a href="https://t.me/NetGraniz"><samp>[ TELEGRAM ]</samp></a>
 </p>
 
 <p align="center">
