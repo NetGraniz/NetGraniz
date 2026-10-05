@@ -1,4 +1,4 @@
-<!doctype html><html lang="en"><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>NetGraniz · Profile preview</title><style>body{margin:0;background:#0d1117;color:#e6edf3;font:16px/1.5 -apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif}main{max-width:860px;margin:32px auto;padding:32px;border:1px solid #30363d;border-radius:6px}img{max-width:100%;vertical-align:middle}p{margin:16px 0}a{color:#79c0ff;text-decoration:none}a:hover{text-decoration:underline}h2{margin:32px 0 16px;padding-bottom:8px;border-bottom:1px solid #30363d}h3{font-size:20px;margin:16px 0}table{border-collapse:collapse;width:100%;margin:16px 0}td,th{border:1px solid #30363d;padding:12px 16px}tr:nth-child(even){background:#161b22}samp{font-family:ui-monospace,Consolas,monospace;font-size:.9em}sub{font-size:12px}blockquote{border-left:4px solid #857fa9;margin:16px 0;padding:0 16px;color:#a6b5cc}hr{border:0;border-top:1px solid #30363d;margin:28px 0}@media(max-width:600px){main{margin:0;padding:16px}td,th{padding:8px}h3{font-size:17px}}</style><main><p align="center">
+<p align="center">
   <img src="assets/hero.png" width="100%" alt="NetGraniz — independent web projects. Pixel art desk with a CRT computer overlooking a Nordic night landscape.">
 </p>
 
@@ -12,7 +12,6 @@
 <p align="center">
   <a href="https://portfolio.nord-fjell.com"><samp>[ VISIT PORTFOLIO ]</samp></a>
   &nbsp; · &nbsp;
-  <a href="https://t.me/NetGraniz"><samp>[ SAY HELLO / TELEGRAM ]</samp></a>
   <a href="https://t.me/NetGraniz"><samp>[ TELEGRAM ]</samp></a>
 </p>
 
@@ -92,4 +91,3 @@
 <hr>
 
 <p align="center"><samp>THANKS FOR STOPPING BY. YOU CAN CLOSE THIS TAB — OR START SOMETHING.</samp><br><sub>© 2026 NetGraniz · Made for the web, with a soft spot for the old web.</sub></p>
-</main></html>
