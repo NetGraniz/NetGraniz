@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/hero.png" width="100%" alt="NetGraniz — independent web projects. Pixel art desk with a CRT computer overlooking a Nordic night landscape.">
+  <img src="assets/hero.gif" width="100%" alt="NetGraniz — independent web projects. Pixel art desk with a CRT computer overlooking a Nordic night landscape.">
 </p>
 
 <p align="center"><samp>WELCOME TO MY LITTLE CORNER OF THE WEB</samp></p>
