@@ -67,14 +67,56 @@
 <h2><img src="assets/toolbox.png" width="100%" alt="02 / Toolbox — seven browser utilities"></h2>
 
 <table>
-<tr><th align="left">UTILITY</th><th align="left">WHAT IT DOES</th></tr>
-<tr><td><a href="https://p2p.nord-fjell.com"><strong>P2P Call</strong></a></td><td>One-to-one browser video calls.</td></tr>
-<tr><td><a href="https://password.nord-fjell.com"><strong>Password Security Lab</strong></a></td><td>Password analysis, breach checks and generation.</td></tr>
-<tr><td><a href="https://translit.nord-fjell.com"><strong>Translit</strong></a></td><td>Russian transliteration for documents and URL slugs.</td></tr>
-<tr><td><a href="https://trip.nord-fjell.com"><strong>Trip Cost</strong></a></td><td>Route, fuel and travel budget planning.</td></tr>
-<tr><td><a href="https://ocr.nord-fjell.com"><strong>Photo OCR</strong></a></td><td>Extract and clean text from images in the browser.</td></tr>
-<tr><td><a href="https://converters.nord-fjell.com"><strong>Convert Lab</strong></a></td><td>Client-side image and file conversion utilities.</td></tr>
-<tr><td><a href="https://qr.nord-fjell.com"><strong>QR Code Studio</strong></a></td><td>QR codes, barcodes, scanning and batch export.</td></tr>
+<tr>
+<td width="50%" valign="top">
+  <h3><samp>01</samp> &nbsp; P2P Call</h3>
+  <p>One-to-one browser video calls.</p>
+  <p><sub><samp>WEBRTC / P2P</samp></sub></p>
+  <p><a href="https://p2p.nord-fjell.com"><samp>[ START → ]</samp></a></p>
+</td>
+<td width="50%" valign="top">
+  <h3><samp>02</samp> &nbsp; Password Security Lab</h3>
+  <p>Password analysis, breach checks and generation.</p>
+  <p><sub><samp>SECURITY / PASSWORDS</samp></sub></p>
+  <p><a href="https://password.nord-fjell.com"><samp>[ START → ]</samp></a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+  <h3><samp>03</samp> &nbsp; Translit</h3>
+  <p>Russian transliteration for documents and URL slugs.</p>
+  <p><sub><samp>TEXT / TRANSLITERATION</samp></sub></p>
+  <p><a href="https://translit.nord-fjell.com"><samp>[ START → ]</samp></a></p>
+</td>
+<td width="50%" valign="top">
+  <h3><samp>04</samp> &nbsp; Trip Cost</h3>
+  <p>Route, fuel and travel budget planning.</p>
+  <p><sub><samp>TRAVEL / CALCULATOR</samp></sub></p>
+  <p><a href="https://trip.nord-fjell.com"><samp>[ START → ]</samp></a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+  <h3><samp>05</samp> &nbsp; Photo OCR</h3>
+  <p>Extract and clean text from images in the browser.</p>
+  <p><sub><samp>OCR / LOCAL PROCESSING</samp></sub></p>
+  <p><a href="https://ocr.nord-fjell.com"><samp>[ START → ]</samp></a></p>
+</td>
+<td width="50%" valign="top">
+  <h3><samp>06</samp> &nbsp; Convert Lab</h3>
+  <p>Client-side image and file conversion utilities.</p>
+  <p><sub><samp>FILES / CLIENT-SIDE</samp></sub></p>
+  <p><a href="https://converters.nord-fjell.com"><samp>[ START → ]</samp></a></p>
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+  <h3><samp>07</samp> &nbsp; QR Code Studio</h3>
+  <p>QR codes, barcodes, scanning and batch export.</p>
+  <p><sub><samp>QR / BARCODE / GENERATOR</samp></sub></p>
+  <p><a href="https://qr.nord-fjell.com"><samp>[ START → ]</samp></a></p>
+</td>
+</tr>
 </table>
 
 <h2><img src="assets/about.png" width="100%" alt="03 / README.txt — the way I build"></h2>
