@@ -68,13 +68,13 @@
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="500" valign="top">
   <h3><samp>01</samp> &nbsp; P2P Call</h3>
   <p>One-to-one browser video calls.</p>
   <p><sub><samp>WEBRTC / P2P</samp></sub></p>
   <p><a href="https://p2p.nord-fjell.com"><samp>[ START → ]</samp></a></p>
 </td>
-<td width="50%" valign="top">
+<td width="500" valign="top">
   <h3><samp>02</samp> &nbsp; Password Security Lab</h3>
   <p>Password analysis, breach checks and generation.</p>
   <p><sub><samp>SECURITY / PASSWORDS</samp></sub></p>
@@ -82,13 +82,13 @@
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td width="500" valign="top">
   <h3><samp>03</samp> &nbsp; Translit</h3>
   <p>Russian transliteration for documents and URL slugs.</p>
   <p><sub><samp>TEXT / TRANSLITERATION</samp></sub></p>
   <p><a href="https://translit.nord-fjell.com"><samp>[ START → ]</samp></a></p>
 </td>
-<td width="50%" valign="top">
+<td width="500" valign="top">
   <h3><samp>04</samp> &nbsp; Trip Cost</h3>
   <p>Route, fuel and travel budget planning.</p>
   <p><sub><samp>TRAVEL / CALCULATOR</samp></sub></p>
@@ -96,13 +96,13 @@
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td width="500" valign="top">
   <h3><samp>05</samp> &nbsp; Photo OCR</h3>
   <p>Extract and clean text from images in the browser.</p>
   <p><sub><samp>OCR / LOCAL PROCESSING</samp></sub></p>
   <p><a href="https://ocr.nord-fjell.com"><samp>[ START → ]</samp></a></p>
 </td>
-<td width="50%" valign="top">
+<td width="500" valign="top">
   <h3><samp>06</samp> &nbsp; Convert Lab</h3>
   <p>Client-side image and file conversion utilities.</p>
   <p><sub><samp>FILES / CLIENT-SIDE</samp></sub></p>
