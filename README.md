@@ -160,8 +160,8 @@
 </td>
 <td width="50%" valign="top">
   <h3><samp>06</samp> &nbsp; Small Windows tools</h3>
-  <p><a href="https://github.com/NetGraniz/NordCursor">NordCursor</a>, <a href="https://github.com/NetGraniz/NordEye">NordEye</a> and <a href="https://github.com/NetGraniz/TerminalTyper">TerminalTyper</a> solve focused desktop tasks with minimal overhead.</p>
-  <p><sub><samp>AUTOHOTKEY / PRODUCTIVITY</samp></sub></p>
+  <p><a href="https://github.com/NetGraniz/NordCursor">NordCursor</a>, <a href="https://github.com/NetGraniz/NordEye">NordEye</a>, <a href="https://github.com/NetGraniz/TerminalTyper">TerminalTyper</a> and <a href="https://github.com/NetGraniz/asus-keyboard-backlight">ASUS Keyboard Backlight</a> solve focused desktop tasks with minimal overhead.</p>
+  <p><sub><samp>C# / AUTOHOTKEY / HARDWARE CONTROL / PRODUCTIVITY</samp></sub></p>
 </td>
 </tr>
 </table>
