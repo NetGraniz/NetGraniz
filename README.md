@@ -70,7 +70,7 @@
 </tr>
 </table>
 
-<h2><img src="assets/toolbox.png" width="100%" alt="02 / Toolbox — seven browser utilities"></h2>
+<h2><img src="assets/toolbox.png" width="100%" alt="02 / Toolbox — browser utilities and personal web apps"></h2>
 
 <table>
 <tr>
@@ -121,6 +121,14 @@
   <p>Custom QR codes, barcodes, scanning and batch export — fully in the browser.</p>
   <p><sub><samp>QR / BARCODE / GENERATOR</samp></sub></p>
   <p><a href="https://qr.nord-fjell.com"><samp>[ CREATE → ]</samp></a></p>
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+  <h3><samp>08</samp> &nbsp; Kin Ledger</h3>
+  <p>A private-by-default expense and salary tracker where each account can create a family workspace, plan recurring costs and keep personal income records.</p>
+  <p><sub><samp>REACT / TYPESCRIPT / CLOUDFLARE WORKERS / D1</samp></sub></p>
+  <p><a href="https://expenses.nord-fjell.com"><samp>[ OPEN LEDGER → ]</samp></a></p>
 </td>
 </tr>
 </table>
