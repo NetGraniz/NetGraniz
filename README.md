@@ -85,7 +85,7 @@
 </tr>
 </table>
 
-<h2><img src="assets/desktop-lab.svg" width="100%" alt="03 / Desktop lab — Windows, Electron and Obsidian tools"></h2>
+<h2><img src="assets/desktop-lab.png" width="100%" alt="03 / Desktop lab — Windows, Electron and Obsidian tools"></h2>
 
 <table>
 <tr>
@@ -126,7 +126,7 @@
 </tr>
 </table>
 
-<h2><img src="assets/minecraft-engineering.svg" width="100%" alt="04 / Minecraft engineering — Paper, Folia and Velocity systems"></h2>
+<h2><img src="assets/minecraft-engineering.png" width="100%" alt="04 / Minecraft engineering — Paper, Folia and Velocity systems"></h2>
 
 <p>
   The Nord-Fjell stack is a set of focused server components for Paper, Folia and Velocity.
@@ -165,7 +165,7 @@
   <a href="https://github.com/NetGraniz/NordLoadTest">NordLoadTest</a> drives Mineflayer clients through queue, authentication and in-world behaviour.
 </p>
 
-<h2><img src="assets/about-05.svg" width="100%" alt="05 / README.txt — the way I build"></h2>
+<h2><img src="assets/about-05.png" width="100%" alt="05 / README.txt — the way I build"></h2>
 
 <blockquote>
   <p><strong>Small surface. Useful depth.</strong></p>
