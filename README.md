@@ -22,13 +22,13 @@
 <table>
 <tr>
 <td width="50%" valign="top">
-  <h3><samp>02</samp> &nbsp; Quiet Mile</h3>
+  <h3><samp>01</samp> &nbsp; Quiet Mile</h3>
   <p>An endless procedural drive through a generated 3D landscape.</p>
   <p><sub><samp>THREE.JS / PROCEDURAL GENERATION</samp></sub></p>
   <p><a href="https://roads.nord-fjell.com"><samp>[ DRIVE → ]</samp></a></p>
 </td>
 <td width="50%" valign="top">
-  <h3><samp>05</samp> &nbsp; Repo Monster Calculator</h3>
+  <h3><samp>02</samp> &nbsp; Repo Monster Calculator</h3>
   <p>A compact team-power calculator for selecting available monsters.</p>
   <p><sub><samp>GAME UTILITY / CALCULATOR</samp></sub></p>
   <p><a href="https://repo.nord-fjell.com"><samp>[ OPEN → ]</samp></a></p>
@@ -36,7 +36,7 @@
   </tr>
 <tr>
 <td colspan="2" valign="top">
-  <h3><samp>06</samp> &nbsp; Nord-Fjell</h3>
+  <h3><samp>03</samp> &nbsp; Nord-Fjell</h3>
   <p>The home of a Java Minecraft server and its community.</p>
   <p><sub><samp>MINECRAFT / COMMUNITY / ELEVENTY</samp></sub></p>
   <p><a href="https://nord-fjell.com"><samp>[ VISIT → ]</samp></a></p>
@@ -63,13 +63,13 @@
 </tr>
 <tr>
 <td width="50%" valign="top">
-  <h3><samp>04</samp> &nbsp; Trip Cost</h3>
+  <h3><samp>03</samp> &nbsp; Trip Cost</h3>
   <p>Route, fuel, toll and per-person travel budget planning.</p>
   <p><sub><samp>TRAVEL / CALCULATOR</samp></sub></p>
   <p><a href="https://trip.nord-fjell.com"><samp>[ PLAN → ]</samp></a></p>
 </td>
 <td width="50%" valign="top">
-  <h3><samp>05</samp> &nbsp; Photo OCR</h3>
+  <h3><samp>04</samp> &nbsp; Photo OCR</h3>
   <p>Extract and clean text from images locally in the browser.</p>
   <p><sub><samp>OCR / LOCAL PROCESSING</samp></sub></p>
   <p><a href="https://ocr.nord-fjell.com"><samp>[ RECOGNISE → ]</samp></a></p>
@@ -77,7 +77,7 @@
 </tr>
 <tr>
 <td colspan="2" valign="top">
-  <h3><samp>08</samp> &nbsp; Kin Ledger</h3>
+  <h3><samp>05</samp> &nbsp; Kin Ledger</h3>
   <p>A private-by-default expense and salary tracker where each account can create a family workspace, plan recurring costs and keep personal income records.</p>
   <p><sub><samp>REACT / TYPESCRIPT / CLOUDFLARE WORKERS / D1</samp></sub></p>
   <p><a href="https://expenses.nord-fjell.com"><samp>[ OPEN LEDGER → ]</samp></a></p>
