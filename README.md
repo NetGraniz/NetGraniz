@@ -19,24 +19,30 @@
 
 <h2><img src="assets/play-room.png" width="100%" alt="01 / Play room — six games and simulations"></h2>
 
+
+
+
 <table>
-<tr>
-<td>
-  <h3><samp>01</samp> &nbsp; Quiet Mile</h3>
-  <p>An endless procedural drive through a generated 3D landscape.</p>
-  <p><sub><samp>THREE.JS / PROCEDURAL GENERATION</samp></sub></p>
-  <p><a href="https://roads.nord-fjell.com"><samp>[ DRIVE → ]</samp></a></p>
-</td>
+  <tr>
+    <td width="1000" valign="top">
+      <h3><samp>01</samp> &nbsp; Quiet Mile</h3>
+      <p>An endless procedural drive through a generated 3D landscape.</p>
+      <p><sub><samp>THREE.JS / PROCEDURAL GENERATION</samp></sub></p>
+      <p><a href="https://roads.nord-fjell.com"><samp>[ DRIVE → ]</samp></a></p>
+    </td>
   </tr>
-<tr>
-<td>
-  <h3><samp>02</samp> &nbsp; Nord-Fjell</h3>
-  <p>The home of a Java Minecraft server and its community.</p>
-  <p><sub><samp>MINECRAFT / COMMUNITY / ELEVENTY</samp></sub></p>
-  <p><a href="https://nord-fjell.com"><samp>[ VISIT → ]</samp></a></p>
-</td>
-</tr>
+  <tr>
+    <td width="1000" valign="top">
+      <h3><samp>02</samp> &nbsp; Nord-Fjell</h3>
+      <p>The home of a Java Minecraft server and its community.</p>
+      <p><sub><samp>MINECRAFT / COMMUNITY / ELEVENTY</samp></sub></p>
+      <p><a href="https://nord-fjell.com"><samp>[ VISIT → ]</samp></a></p>
+    </td>
+  </tr>
 </table>
+
+
+
 
 <h2><img src="assets/toolbox.png" width="100%" alt="02 / Toolbox — browser utilities and personal web apps"></h2>
 
