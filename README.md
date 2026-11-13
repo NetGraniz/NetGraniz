@@ -28,30 +28,10 @@
 <table>
 <tr>
 <td width="50%" valign="top">
-  <h3><samp>01</samp> &nbsp; Gridhaven</h3>
-  <p>A city builder with economy, utilities, zoning and simulation systems.</p>
-  <p><sub><samp>PHASER / TYPESCRIPT / SIMULATION</samp></sub></p>
-  <p><a href="https://city.nord-fjell.com"><samp>[ PLAY → ]</samp></a></p>
-</td>
-<td width="50%" valign="top">
   <h3><samp>02</samp> &nbsp; Quiet Mile</h3>
   <p>An endless procedural drive through a generated 3D landscape.</p>
   <p><sub><samp>THREE.JS / PROCEDURAL GENERATION</samp></sub></p>
   <p><a href="https://roads.nord-fjell.com"><samp>[ DRIVE → ]</samp></a></p>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-  <h3><samp>03</samp> &nbsp; Barricade</h3>
-  <p>A 9×9 strategy board game with local play and several AI levels.</p>
-  <p><sub><samp>STRATEGY / BOARD GAME / AI</samp></sub></p>
-  <p><a href="https://barricade.nord-fjell.com"><samp>[ PLAY → ]</samp></a></p>
-</td>
-<td width="50%" valign="top">
-  <h3><samp>04</samp> &nbsp; Battleship</h3>
-  <p>Classic sea battle against an adaptive computer opponent.</p>
-  <p><sub><samp>CLASSIC / OFFLINE / AI</samp></sub></p>
-  <p><a href="https://battleship.nord-fjell.com"><samp>[ PLAY → ]</samp></a></p>
 </td>
 </tr>
 <tr>
@@ -89,12 +69,6 @@
 </tr>
 <tr>
 <td width="50%" valign="top">
-  <h3><samp>03</samp> &nbsp; Translit</h3>
-  <p>Russian transliteration for passports, licences, GOST and URL slugs.</p>
-  <p><sub><samp>TEXT / TRANSLITERATION</samp></sub></p>
-  <p><a href="https://translit.nord-fjell.com"><samp>[ CONVERT → ]</samp></a></p>
-</td>
-<td width="50%" valign="top">
   <h3><samp>04</samp> &nbsp; Trip Cost</h3>
   <p>Route, fuel, toll and per-person travel budget planning.</p>
   <p><sub><samp>TRAVEL / CALCULATOR</samp></sub></p>
@@ -107,20 +81,6 @@
   <p>Extract and clean text from images locally in the browser.</p>
   <p><sub><samp>OCR / LOCAL PROCESSING</samp></sub></p>
   <p><a href="https://ocr.nord-fjell.com"><samp>[ RECOGNISE → ]</samp></a></p>
-</td>
-<td width="50%" valign="top">
-  <h3><samp>06</samp> &nbsp; Convert Lab</h3>
-  <p>A lightweight collection of client-side file and image converters.</p>
-  <p><sub><samp>FILES / CLIENT-SIDE</samp></sub></p>
-  <p><a href="https://converters.nord-fjell.com"><samp>[ CONVERT → ]</samp></a></p>
-</td>
-</tr>
-<tr>
-<td colspan="2" valign="top">
-  <h3><samp>07</samp> &nbsp; QR Code Studio</h3>
-  <p>Custom QR codes, barcodes, scanning and batch export — fully in the browser.</p>
-  <p><sub><samp>QR / BARCODE / GENERATOR</samp></sub></p>
-  <p><a href="https://qr.nord-fjell.com"><samp>[ CREATE → ]</samp></a></p>
 </td>
 </tr>
 <tr>
