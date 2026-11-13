@@ -21,22 +21,16 @@
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td>
   <h3><samp>01</samp> &nbsp; Quiet Mile</h3>
   <p>An endless procedural drive through a generated 3D landscape.</p>
   <p><sub><samp>THREE.JS / PROCEDURAL GENERATION</samp></sub></p>
   <p><a href="https://roads.nord-fjell.com"><samp>[ DRIVE → ]</samp></a></p>
 </td>
-<td width="50%" valign="top">
-  <h3><samp>02</samp> &nbsp; Repo Monster Calculator</h3>
-  <p>A compact team-power calculator for selecting available monsters.</p>
-  <p><sub><samp>GAME UTILITY / CALCULATOR</samp></sub></p>
-  <p><a href="https://repo.nord-fjell.com"><samp>[ OPEN → ]</samp></a></p>
-</td>
   </tr>
 <tr>
-<td colspan="2" valign="top">
-  <h3><samp>03</samp> &nbsp; Nord-Fjell</h3>
+<td>
+  <h3><samp>02</samp> &nbsp; Nord-Fjell</h3>
   <p>The home of a Java Minecraft server and its community.</p>
   <p><sub><samp>MINECRAFT / COMMUNITY / ELEVENTY</samp></sub></p>
   <p><a href="https://nord-fjell.com"><samp>[ VISIT → ]</samp></a></p>
