@@ -10,12 +10,6 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/NetGraniz?tab=repositories"><samp>[ 31 PUBLIC PROJECTS ]</samp></a>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="https://t.me/NetGraniz"><samp>[ TELEGRAM ]</samp></a>
-</p>
-
-<p align="center">
   <sub><samp>TYPESCRIPT · JAVASCRIPT · JAVA · C# · C++ · PYTHON · AUTOHOTKEY · CLOUDFLARE · ELECTRON · PAPER · FOLIA · VELOCITY</samp></sub>
 </p>
 
