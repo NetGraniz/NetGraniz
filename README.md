@@ -33,15 +33,15 @@
   <p><sub><samp>THREE.JS / PROCEDURAL GENERATION</samp></sub></p>
   <p><a href="https://roads.nord-fjell.com"><samp>[ DRIVE → ]</samp></a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
   <h3><samp>05</samp> &nbsp; Repo Monster Calculator</h3>
   <p>A compact team-power calculator for selecting available monsters.</p>
   <p><sub><samp>GAME UTILITY / CALCULATOR</samp></sub></p>
   <p><a href="https://repo.nord-fjell.com"><samp>[ OPEN → ]</samp></a></p>
 </td>
-<td width="50%" valign="top">
+  </tr>
+<tr>
+<td colspan="2" valign="top">
   <h3><samp>06</samp> &nbsp; Nord-Fjell</h3>
   <p>The home of a Java Minecraft server and its community.</p>
   <p><sub><samp>MINECRAFT / COMMUNITY / ELEVENTY</samp></sub></p>
@@ -74,8 +74,6 @@
   <p><sub><samp>TRAVEL / CALCULATOR</samp></sub></p>
   <p><a href="https://trip.nord-fjell.com"><samp>[ PLAN → ]</samp></a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
   <h3><samp>05</samp> &nbsp; Photo OCR</h3>
   <p>Extract and clean text from images locally in the browser.</p>
