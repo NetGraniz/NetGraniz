@@ -48,17 +48,11 @@
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td colspan="2" valign="top">
   <h3><samp>01</samp> &nbsp; P2P Call</h3>
   <p>Private one-to-one browser video calls with TURN fallback.</p>
   <p><sub><samp>WEBRTC / DURABLE OBJECTS</samp></sub></p>
   <p><a href="https://p2p.nord-fjell.com"><samp>[ CALL → ]</samp></a></p>
-</td>
-<td width="50%" valign="top">
-  <h3><samp>02</samp> &nbsp; Password Security Lab</h3>
-  <p>Password analysis, breach checks and secure credential generation.</p>
-  <p><sub><samp>SECURITY / CLIENT-SIDE</samp></sub></p>
-  <p><a href="https://password.nord-fjell.com"><samp>[ CHECK → ]</samp></a></p>
 </td>
 </tr>
 <tr>
