@@ -113,7 +113,7 @@
 <tr>
 <td width="500" valign="top">
   <h3><samp>01</samp> &nbsp; Network &amp; access</h3>
-  <p><a href="https://github.com/NetGraniz/NordQueue">NordQueue</a> · <a href="https://github.com/NetGraniz/NordAuth">NordAuth</a> · <a href="https://github.com/NetGraniz/NordBans">NordBans</a></p>
+  <p><a href="https://github.com/NetGraniz/NordQueue">NordQueue</a> · <a href="https://github.com/NetGraniz/NordBans">NordBans</a></p>
   <p><sub><samp>QUEUE / AUTH / PERMISSIONS / BANS</samp></sub></p>
 </td>
 <td width="500" valign="top">
@@ -125,7 +125,7 @@
 <tr>
 <td width="500" valign="top">
   <h3><samp>03</samp> &nbsp; Players &amp; world</h3>
-  <p><a href="https://github.com/NetGraniz/NordHomes">NordHomes</a> · <a href="https://github.com/NetGraniz/NordPhantoms">NordPhantoms</a> · <a href="https://github.com/NetGraniz/NordFireworks">NordFireworks</a> · <a href="https://github.com/NetGraniz/NordRegen">NordRegen</a></p>
+  <p><a href="https://github.com/NetGraniz/NordPhantoms">NordPhantoms</a> · <a href="https://github.com/NetGraniz/NordFireworks">NordFireworks</a> · <a href="https://github.com/NetGraniz/NordRegen">NordRegen</a></p>
   <p><sub><samp>TELEPORTATION / PROTECTION / WORLD TOOLS</samp></sub></p>
 </td>
 <td width="500" valign="top">
